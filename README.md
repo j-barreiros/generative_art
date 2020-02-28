@@ -2,4 +2,4 @@
 
 Infinite_Arcs
 -------------
-![infinite arcs](https://github.com/j-novaes/generative_art/tree/master/projects_images/arc_ani.gif)
+![infinite arcs](https://github.com/j-novaes/generative_art/blob/master/projects_images/arc_ani.gif)
