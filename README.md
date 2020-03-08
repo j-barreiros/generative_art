@@ -4,6 +4,14 @@ Infinite_Arcs
 -------------
 ![infinite_Arcs](https://github.com/j-novaes/generative_art/blob/master/projects_images/arc_ani.gif)
 
-Ropes_Of_Caos
+Ropes_Of_Chaos
 -------------
-![Ropes_Of_Caos](https://github.com/j-novaes/generative_art/blob/master/projects_images/ropes.png)
+![Ropes_Of_Chaos](https://github.com/j-novaes/generative_art/blob/master/projects_images/ropes.png)
+
+Dark_Or_Light
+-------------
+![Dark_Or_Light](https://github.com/j-novaes/generative_art/blob/master/projects_images/dl.png)
+
+Connection
+-------------
+![Connection](https://github.com/j-novaes/generative_art/blob/master/projects_images/connection.png)
