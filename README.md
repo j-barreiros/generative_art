@@ -14,4 +14,4 @@ Dark_Or_Light
 
 Connection
 -------------
-![Connection](https://github.com/j-novaes/generative_art/blob/master/projects_images/connection.png)
+![Connection](https://github.com/j-novaes/generative_art/blob/master/projects_images/connection.gif)
